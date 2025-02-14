@@ -1,0 +1,44 @@
+{
+  "DATA": {
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/cow7sRp0U5Qyn1YItde-[SuperPSX]-Metro.Redux-CUSA00683-USA-Update-v1.02-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA00683",
+      "region": "USA",
+      "name": "Metro Redux",
+      "size": 26875002,
+      "version": "1.02",
+      "release": "02-14-2025",
+      "min_fw": "6.72",
+      "cover_url": "https://4.bp.blogspot.com/-PXFxsT4w_0w/Wowjd7IR0jI/AAAAAAAALTc/uAtDXtBRsrIMj6Oy2LONfHw52YFbnQAKwCLcBGAs/s1600/26.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coxRlQQeXESwu7HHcde-[SPSX]-Grand.Theft.Auto.V-CUSA00419-USA-Update-v1.52-(5.05+)-PS4.pkg": {
+      "title_id": "CUSA00419",
+      "region": "USA",
+      "name": "Grand Theft Auto V",
+      "size": 48496377856,
+      "version": "1.52",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://i.ibb.co/T5RKF0R/Grand-Theft-Auto-V.png"
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coYE21qGfLl2Nh3zjde-EP0002-CUSA34029_00-COREGAME00000001-A0158-V0100-TheWorldismine-CyB1K.pkg": {
+      "title_id": "CUSA34029",
+      "region": "EUR",
+      "name": "Call of Duty Black Ops 6",
+      "size": 57997262848,
+      "version": "1.58",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/08/1-4.jpg"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/coCaZpCyZhUECUCVpde-[SPSX]-Tomb.Raider.Definitive.Edition-CUSA00107-USA-Update-1.01-(5.50+)-PS4.pkg": {
+      "title_id": "CUSA00107",
+      "region": "USA",
+      "name": "Tomb Raider Definitive Edition",
+      "size": 31588352,
+      "version": "1.01",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    }
+  }
+}
