@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://github.com/ItsJokerZz/FPKGi/releases/download/Nightly/FPKGi_v0.80-nightly-build_193.pkg": {
+      "title_id": "FPKGI13337",
+      "region": "ASIA",
+      "name": "F[PKGi]",
+      "size": 72089600,
+      "version": "0.8",
+      "release": "12-25-2024",
+      "min_fw": "4.50",
+      "cover_url": "https://www.itsjokerzz.site/projects/FPKGi/Icon.png"
+    },
+    "https://download.akirabox.com/uploads/users/XLJlGnnlG15w/coXWoHTW15Y5Bv7JHde-HB%20STOR%20BY%204GAMER.pkg": {
+      "title_id": "NPXS39041",
+      "region": "EUR",
+      "name": "HB Store",
+      "size": 24772608,
+      "version": "1.00",
+      "release": "02-14-2025",
+      "min_fw": "5.05",
+      "cover_url": "https://i.postimg.cc/XNk1S8J5/Picsart-25-02-14-07-58-22-320.jpg"
+    }
+  }
+}
