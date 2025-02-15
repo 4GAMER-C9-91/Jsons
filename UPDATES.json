@@ -39,6 +39,16 @@
       "release": "02-14-2025",
       "min_fw": "5.05",
       "cover_url": "https://www.superpsx.com/wp-content/uploads/2024/10/Tomb-Raider-Definitive-Edition-PS4-PKG.webp"
+    },
+    "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/co4M31OJdanJn9bFFde-[SuperPSX]-Stick.Fight.The.Game_CUSA11826_v1.01_[5.05]-PS4.pkg": {
+      "title_id": "CUSA11826",
+      "region": "EUR",
+      "name": "Stick Fight The Game",
+      "size": 57999360,
+      "version": "1.01",
+      "release": "02-01-2021",
+      "min_fw": "5.05",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2025/02/2-1.jpg"
     }
   }
 }
