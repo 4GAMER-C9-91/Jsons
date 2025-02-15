@@ -1,20 +1,10 @@
 {
   "DATA": {
-    "https://download854.mediafire.com/mlhxuu6qrzfgngjeDCu9-ipkekw4rZzcIbyeh7VgG9SfnKiMFsh2Q8RX2ooYqEWEtzs2iokBEyv9IydaD2sHuASzd01S_7Q2IIDdZk7Ta_oWJ3xEu_J7tvStIQ7r3L8KGBcPjUSVubBGL6f2ixCtF28dASnFol6pK2odyfaGG6_YyQ/c07gslk5fsj5659/EP6930-CUSA32070_00-APP0990000000022-A0100-V0100-TRIFECTA-%5BDLPSGAME.COM%5D.pkg": {
-      "title_id": "CUSA32070",
-      "region": "EUR",
-      "name": "Post Void Ex",
-      "size": 245760,
-      "version": "1.0",
-      "release": "02-13-2025",
-      "min_fw": "9.0",
-      "cover_url": "https://1.bp.blogspot.com/-4b_e_MgiW1A/Zk3j4SN617I/AAAAAAAAAiw/kdkTv_l-K7sGBMpKpnDzcsr7IZU3fI9sACNcBGAsYHQ/s0/3.jpg"
-    },
     "https://eu1.akirabox.com/uploads/users/Q2WVGrBgGkx7/cotZsdMTE64smueDCde-[SuperPSX]-CoffeeTalk_CUSA18112_v1.00_[6.72]-PS4.pkg": {
       "title_id": "CUSA18112",
       "region": "EUR",
       "name": "Coffee Talk",
-      "size": 284672,
+      "size": 292356096,
       "version": "1.0",
       "release": "02-13-2025",
       "min_fw": null,
@@ -24,7 +14,7 @@
       "title_id": "CUSA32951",
       "region": "EUR",
       "name": "Coffee Talk Episode 2 Hibiscus & Butterfly",
-      "size": 432128,
+      "size": 442892288,
       "version": "1.0",
       "release": null,
       "min_fw": null,
@@ -44,7 +34,7 @@
       "title_id": "CUSA08519",
       "region": "EUR",
       "name": "Red Dead Redemption 2",
-      "size": 682298504643,
+      "size": 85290778624,
       "version": "1.00",
       "release": "02-14-2025",
       "min_fw": "6.72",
