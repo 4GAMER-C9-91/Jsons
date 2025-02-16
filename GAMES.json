@@ -159,6 +159,16 @@
       "release": "2-3-2014",
       "min_fw": "5.05",
       "cover_url": "https://1.bp.blogspot.com/-0NM5DA2DYBQ/WoVTnacKUGI/AAAAAAAAKvs/26hRnXFxlRUG0xINxT_ZpBsFt2Ry4xSUgCLcBGAs/s1600/21.jpg"
-     }
-   }
- }
+     },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coO6wn5fX1eOBenszde-[SuperPSX]-Streets.of.Rage.4_CUSA16237_v1.00_[7.02-PS4.pkg": {
+      "title_id": "CUSA16237",
+      "region": " USA",
+      "name": "Street of Rage 4",
+      "size": 5295702016,
+      "version": "1.00",
+      "release": "1-1-2020",
+      "min_fw": "7.02",
+      "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/31.jpg"
+    }
+  }
+}
