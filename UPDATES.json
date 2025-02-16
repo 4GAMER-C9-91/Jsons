@@ -1,1 +1,14 @@
-Where's everyone!? Dead
+{
+  "DATA": {
+    "https://t.me/+_CIQa3gISTVhYjg8": {
+      "title_id": "CUSA0000",
+      "region": "EUR",
+      "name": "TELEGRAM - https://t.me/+_CIQa3gISTVhYjg8",
+      "size": 292356096,
+      "version": "1.0",
+      "release": "02-13-2025",
+      "min_fw": null,
+      "cover_url": "https://cdn-icons-png.flaticon.com/128/5968/5968804.png"},
+    }
+  }
+}
