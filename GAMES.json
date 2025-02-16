@@ -169,6 +169,15 @@
       "release": "1-1-2020",
       "min_fw": "7.02",
       "cover_url": "https://dlpsgame.com/wp-content/uploads/2024/12/31.jpg"
-    }
+    },
+    "https://download.akirabox.com/uploads/users/Q2WVGrBgGkx7/coVFmVFrTXPa9WsaSde-[SuperPSX]-The.Last.of.Us.Part.2-CUSA10249-EUR-Game_v1.00-PS4.pkg": {
+      "title_id": "CUSA10249",
+      "region": "EUR",
+      "name": "The Last of us Part ll",
+      "size": 92943417344,
+      "version": "1.00",
+      "release": "1-1-2020",
+      "min_fw": "6.72",
+      "cover_url": "https://1.bp.blogspot.com/-f4IwhqilSRk/ZkRQjD_kAGI/AAAAAAAAAKM/nDrW8WC_BNQrzwMM-Lf0hdr_IUZI0PlFgCNcBGAsYHQ/s0/51.jpg"
   }
 }
